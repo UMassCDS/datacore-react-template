@@ -7,7 +7,7 @@ It includes:
 - SWC Compilation 
 - Eslint + Prettier 
 - Testing using Vitest and Jest 
-- Mantine Components and Themeing
+- Mantine Components and Theming
 - React Routing
 
 To run in dev:
